@@ -15,7 +15,7 @@
             <groupId>info.gamlor.akkaasync</groupId>
             <artifactId>akka-io_2.9.1</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
+            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
