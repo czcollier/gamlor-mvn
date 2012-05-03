@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.adbcj</groupId>
+  <artifactId>adbcj</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120503161758</lastUpdated>
+  </versioning>
+</metadata>

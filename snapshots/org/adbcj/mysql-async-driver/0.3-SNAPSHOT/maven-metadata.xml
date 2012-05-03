@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.adbcj</groupId>
+  <artifactId>mysql-async-driver</artifactId>
+  <version>0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120503.161808</timestamp>
+      <buildNumber>10</buildNumber>
+    </snapshot>
+    <lastUpdated>20120503161808</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.3-20120503.161808-10</value>
+        <updated>20120503161808</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3-20120503.161808-10</value>
+        <updated>20120503161808</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.3-20120503.161808-10</value>
+        <updated>20120503161808</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
