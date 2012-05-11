@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.adbcj</groupId>
   <artifactId>adbcj-jdbc</artifactId>
   <version>0.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20120503.161803</timestamp>
-      <buildNumber>10</buildNumber>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20120503161803</lastUpdated>
-    <snapshotVersions>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.3-20120503.161803-10</value>
-        <updated>20120503161803</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.3-20120503.161803-10</value>
-        <updated>20120503161803</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
-        <value>0.3-20120503.161803-10</value>
-        <updated>20120503161803</updated>
-      </snapshotVersion>
-    </snapshotVersions>
+    <lastUpdated>20120511100944</lastUpdated>
   </versioning>
 </metadata>

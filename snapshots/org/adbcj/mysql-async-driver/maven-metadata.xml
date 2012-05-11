@@ -2,10 +2,11 @@
 <metadata>
   <groupId>org.adbcj</groupId>
   <artifactId>mysql-async-driver</artifactId>
+  <version>0.3-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120503161808</lastUpdated>
+    <lastUpdated>20120511100952</lastUpdated>
   </versioning>
 </metadata>

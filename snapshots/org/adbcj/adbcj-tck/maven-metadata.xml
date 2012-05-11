@@ -2,10 +2,11 @@
 <metadata>
   <groupId>org.adbcj</groupId>
   <artifactId>adbcj-tck</artifactId>
+  <version>0.3-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120503161809</lastUpdated>
+    <lastUpdated>20120511100956</lastUpdated>
   </versioning>
 </metadata>
