@@ -2,15 +2,21 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>info.gamlor.akkaasync</groupId>
-    <artifactId>akka-io_2.9.1</artifactId>
+    <artifactId>akka-dbclient_2.9.1</artifactId>
     <packaging>jar</packaging>
-    <description>akka-io</description>
+    <description>akka-dbclient</description>
     <version>1.0-SNAPSHOT</version>
-    <name>akka-io</name>
+    <name>akka-dbclient</name>
     <organization>
         <name>info.gamlor.akkaasync</name>
     </organization>
     <dependencies>
+        <dependency>
+            <groupId>info.gamlor.akkaasync</groupId>
+            <artifactId>akka-io_2.9.1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
@@ -36,9 +42,27 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.mockito</groupId>
-            <artifactId>mockito-core</artifactId>
-            <version>1.9.0-rc1</version>
+            <groupId>org.adbcj</groupId>
+            <artifactId>adbcj-api</artifactId>
+            <version>0.3-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.adbcj</groupId>
+            <artifactId>adbcj-jdbc</artifactId>
+            <version>0.3-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>1.3.161</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>1.6.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
