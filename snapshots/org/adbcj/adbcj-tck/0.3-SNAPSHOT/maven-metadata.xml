@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.adbcj</groupId>
   <artifactId>adbcj-tck</artifactId>
   <version>0.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <buildNumber>5</buildNumber>
+      <timestamp>20120524.133657</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
-    <lastUpdated>20120518112704</lastUpdated>
+    <lastUpdated>20120524133657</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.3-20120524.133657-6</value>
+        <updated>20120524133657</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3-20120524.133657-6</value>
+        <updated>20120524133657</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>
