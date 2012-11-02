@@ -4,10 +4,8 @@
   <artifactId>adbcj-tck</artifactId>
   <versioning>
     <versions>
-      <version>0.3-SNAPSHOT</version>
-      <version>0.3.1-SNAPSHOT</version>
       <version>0.4.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121102095432</lastUpdated>
+    <lastUpdated>20121102155956</lastUpdated>
   </versioning>
 </metadata>
